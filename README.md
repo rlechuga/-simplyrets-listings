@@ -11,6 +11,9 @@
 * React
 * Tailwind and Postcss
 
+
+The reason for using Tailwind CSS is that it includes a responsive design that allows the creation of layouts that adapt to different screen sizes. In addition, it provides utility classes, enabling you to specify styles based on breakpoints.
+
 ## Testing
 There are three types of tests: unit, integration, and end-to-end.
 
